@@ -1,0 +1,6 @@
+[submodule "web"]
+	path = web
+	url = https://github.com/i3elj/recipe_client
+[submodule "api"]
+	path = api
+	url = https://github.com/i3elj/recipe_api
